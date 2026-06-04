@@ -1,0 +1,3 @@
+[submodule "votor-measurement-harness"]
+	path = votor-measurement-harness
+	url = https://github.com/ChiefWoods/votor-measurement-harness.git
