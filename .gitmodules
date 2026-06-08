@@ -1,3 +1,6 @@
 [submodule "votor-measurement-harness"]
 	path = votor-measurement-harness
 	url = https://github.com/ChiefWoods/votor-measurement-harness.git
+[submodule "xdp-pshred-forwarder"]
+	path = xdp-pshred-forwarder
+	url = https://github.com/ChiefWoods/xdp-pshred-forwarder.git
